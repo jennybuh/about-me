@@ -4,7 +4,7 @@
 I'm excited to build on my B.S. in Environmental studies, where I gained and fostered my research, writing, and critical thinking skills.
 
 - 👀 I’m most interested in solving on real world pressing in the sustainability field for just about any sector (energy, resource management, business, etc.).
-But as a junior / entry data anaylst, I'm glad to take on any opportunity that will challenge and grow my skillset.
+But as a junior / entry data analyst, I'm glad to take on any opportunity that will challenge and grow my skillset.
 
 - 🌱 I’m currently learning SQL, Tableau, and R in that order of priority.
 

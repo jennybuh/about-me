@@ -1,11 +1,19 @@
-- 👋 Hi, I’m Jennifer! My friends and family call me Jen.
+👋 Hello, I’m Jennifer! My friends and family call me Jen -- it saves them a couple of syllables.
 
-- 🌍 I completed Google's Data Analytics certification in 2021 with the goal of starting my career as a data analyst. 
-I'm excited to build on my B.S. in Environmental studies. Qualitative and quantitative reesearch methods, critical thinking, creative problem solving, and the ability to consider the big picture and pay attention to the small details are some of the most valuable skills I obtained from my bachelor's degree. I'm excited to apply that to my work as a data analyst.
+I've worked in the healthcare insurance industry for 5 years, currently serving as a Business Analyst. In this role, I leverage my analytical experience and background in research and science to propose strategic solutions for my team and stakeholders. My work involves analyzing data to identify trends, improving our analysis processes, and support data-driven decision-making.
 
-- 👀 I’m most interested in solving on real world pressing in the sustainability and healthcare field.
+👀 I’m passionate about solving complex problems, especially in sustainability and the healthcare field, but I welcome challenges from any industry or subject. My analytical skills allow me to tackle diverse issues and deliver actionable insights.
 
-- 🌱 I currently use Excel, SQL, Python, and Tableau in my data analysis projects. 
+I completed Google's Data Analytics certification in 2021 after becoming captivated by the technologies the field brings to data analysis. 
+I'm excited to apply languages and tools like **SQL, Tableau, and Excel** to complement my educational background. In my studies, I applied qualitative and quantitative reesearch methods, data analysis fundamentals, and critical thinking, to provide data-backed proposals, for real-world problems.
+
+🌱 Outside of work, I am continually expanding my skill set through online courses and personal projects. 
+
+I'm currently expanding my knowledge on:
+
+  - **Tableau:** The Complete Tableau Bootcamp for Data Visualization @ _Udemy_
+  - **Python:** Python Basics @ _Coursera, University of Michigan_
+  - **SQL:** SQL Problems @ _DataLemur_
 
 <!---
 jennybuh/jennybuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
